@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
