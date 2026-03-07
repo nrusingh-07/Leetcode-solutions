@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
