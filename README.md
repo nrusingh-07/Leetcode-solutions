@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
