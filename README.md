@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
