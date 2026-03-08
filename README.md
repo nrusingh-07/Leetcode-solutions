@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
