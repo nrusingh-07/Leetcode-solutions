@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/0268-missing-number) |
+| [3099-harshad-number](https://github.com/nrusingh-07/Leetcode-solutions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
